@@ -3,7 +3,7 @@ import bmf
 graph = bmf.graph()
 
 video = graph.decode({
-     "input_path": "/Users/bytedance/BMF-projects/huggingface-demo/sample.mp4"
+     "input_path": "/Users/bytedance/BMF-projects/huggingface-demo/new_test.mp4"
 })
 
 bmf.encode(
